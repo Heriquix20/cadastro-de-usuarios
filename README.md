@@ -12,6 +12,9 @@ Este é um projeto de aplicação CRUD (Create, Read, Update, Delete) para cadas
 - **Spring Boot**: Framework para criar aplicações Java robustas e de fácil manutenção.
 - **MySQL**: Sistema de gerenciamento de banco de dados relacional utilizado para armazenar os dados dos usuários.
 - **Spring Security**: Framework de segurança que fornece autenticação e autorização para aplicações Java, utilizado aqui para criptografar dados sensíveis.
+- **HTML**: Linguagem de marcação utilizada para estruturar a interface do usuário.
+- **CSS**: Linguagem de estilos utilizada para estilizar a interface do usuário.
+- **JavaScript**: Linguagem de programação utilizada para conectar a interface do usuário ao backend e adicionar interatividade.
 
 ## Funcionalidades
 - **Cadastrar Usuário**: Permite a criação de um novo usuário no sistema.
