@@ -1,5 +1,6 @@
 # Projeto de Cadastro de Usuários
 
+<img src="images/fluxograma.webp" alt="Logo do Projeto" width="800" height="600"/>
 
 ## Descrição
 Este é um projeto de aplicação CRUD (Create, Read, Update, Delete) para cadastro de usuários, desenvolvido em Java utilizando Spring Boot e MySQL como banco de dados. Os dados dos usuários são criptografados para garantir a segurança das informações sensíveis.
